@@ -333,10 +333,8 @@ Solution: Try running in JupyterLab or save as HTML file
 ## 📞 Support
 
 ### 💬 **Get Help**
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/world-happiness-explorer/issues)
-- 💡 **Discussions**: [GitHub Discussions](https://github.com/yourusername/world-happiness-explorer/discussions)
-- 📧 **Email**: your.email@domain.com
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/ujjwaljha1/world-happiness-explorer/issues)
+- 💡 **Discussions**: [GitHub Discussions](https://github.com/ujjwaljha1/world-happiness-explorer/discussions)
 
 ### ❓ **FAQ**
 
@@ -440,4 +438,4 @@ Remember: **Every expert was once a beginner.** Take your time, ask questions, a
 
 **Last Updated**: June 2025  
 **Version**: 1.0.0  
-**Maintained by**: [Your Name]# World-Happiness-Explorer
+**Maintained by**: [Ujjwal Jha]# World-Happiness-Explorer
